@@ -1,0 +1,7 @@
+---
+title: "eds212-day3-activities"
+format: html
+editor: visual
+---
+
+## 
